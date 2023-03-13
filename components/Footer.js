@@ -4,7 +4,10 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <img src="/netlify-monogram.svg" alt="Netlify Logo" className={styles.logo} />
+        <p style={text-size: 19 rem;
+                 color : black}>
+          WAKANDA FOREVER
+  </p>
       </footer>
     </>
   )
