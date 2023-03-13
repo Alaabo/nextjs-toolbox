@@ -4,8 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <p style={text-size: 19 rem;
-                 color : black}>
+        <p>
           WAKANDA FOREVER
   </p>
       </footer>
