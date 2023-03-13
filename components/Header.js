@@ -3,10 +3,10 @@ export default function Header({ title }) {
     <>
       <h1 className="title">{title}</h1>
       <p>
-        Hello There ✋✋ , This is Alaa Bourega a Mern stack developer <b>
-          to be honest i dont love frontend but i am forced to do xddd<b>
+        Hello There ✋✋ , This is Alaa Bourega a Mern stack developer <b></b>
+          to be honest i dont love frontend but i am forced to do xddd<b></b>
             This is a test project for deploying on Netlify , this project will be my portfolio later i guess
-            if you want to contact me for business you can find me here<b>
+            if you want to contact me for business you can find me here<b></b>
               <a href="https://www.instagram.com/alaabo.dng/">
           @alaabo.dng
         </a>
